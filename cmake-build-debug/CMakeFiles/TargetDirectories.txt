@@ -1,0 +1,3 @@
+/Users/markhvostenko/Documents/Плюсы/2 task/classes/cmake-build-debug/CMakeFiles/classes.dir
+/Users/markhvostenko/Documents/Плюсы/2 task/classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/markhvostenko/Documents/Плюсы/2 task/classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
